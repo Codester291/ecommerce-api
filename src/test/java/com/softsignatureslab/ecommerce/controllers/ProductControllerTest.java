@@ -55,7 +55,7 @@ class ProductControllerTest {
         productResponse.setId(1);
         productResponse.setName("Macbook Pro");
         productResponse.setPrice(3000000.0);
-        productResponse.setDescription("Armed robber device");
+        productResponse.setDescription("Armed robber's device");
         productResponse.setStockQuantity(2);
       }
 
